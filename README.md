@@ -10,4 +10,4 @@ Technologies used in the project:
 
 
 ### Demo
-### https://bogdanaks.github.io/stickers-demo/
+### https://bogdanaks.github.io/stickers
